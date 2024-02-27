@@ -1,0 +1,14 @@
+/Users/loganercanbrack/Desktop/SWDV-105/Week7/PaintingEstimate/bin/Debug/net8.0/PaintingEstimate
+/Users/loganercanbrack/Desktop/SWDV-105/Week7/PaintingEstimate/bin/Debug/net8.0/PaintingEstimate.deps.json
+/Users/loganercanbrack/Desktop/SWDV-105/Week7/PaintingEstimate/bin/Debug/net8.0/PaintingEstimate.runtimeconfig.json
+/Users/loganercanbrack/Desktop/SWDV-105/Week7/PaintingEstimate/bin/Debug/net8.0/PaintingEstimate.dll
+/Users/loganercanbrack/Desktop/SWDV-105/Week7/PaintingEstimate/bin/Debug/net8.0/PaintingEstimate.pdb
+/Users/loganercanbrack/Desktop/SWDV-105/Week7/PaintingEstimate/obj/Debug/net8.0/PaintingEstimate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/loganercanbrack/Desktop/SWDV-105/Week7/PaintingEstimate/obj/Debug/net8.0/PaintingEstimate.AssemblyInfoInputs.cache
+/Users/loganercanbrack/Desktop/SWDV-105/Week7/PaintingEstimate/obj/Debug/net8.0/PaintingEstimate.AssemblyInfo.cs
+/Users/loganercanbrack/Desktop/SWDV-105/Week7/PaintingEstimate/obj/Debug/net8.0/PaintingEstimate.csproj.CoreCompileInputs.cache
+/Users/loganercanbrack/Desktop/SWDV-105/Week7/PaintingEstimate/obj/Debug/net8.0/PaintingEstimate.dll
+/Users/loganercanbrack/Desktop/SWDV-105/Week7/PaintingEstimate/obj/Debug/net8.0/refint/PaintingEstimate.dll
+/Users/loganercanbrack/Desktop/SWDV-105/Week7/PaintingEstimate/obj/Debug/net8.0/PaintingEstimate.pdb
+/Users/loganercanbrack/Desktop/SWDV-105/Week7/PaintingEstimate/obj/Debug/net8.0/PaintingEstimate.genruntimeconfig.cache
+/Users/loganercanbrack/Desktop/SWDV-105/Week7/PaintingEstimate/obj/Debug/net8.0/ref/PaintingEstimate.dll
